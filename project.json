@@ -1,0 +1,21 @@
+{
+    "projectId": 3,
+    "projectName": "Practice project",
+    "leader": {
+        "staffId": 1,
+        "name": "Chris Json",
+        "age": 35
+    },
+    "members": [
+        {
+            "staffId": 10,
+            "name": "Alice Ruby",
+            "age": 30
+        },
+        {
+            "staffId": 11,
+            "name": "Bob Java",
+            "age": 40
+        }
+    ]
+}
